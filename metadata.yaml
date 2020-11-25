@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Maxime_Dethomas
     - https://fr.wikipedia.org/wiki/Maxime_Dethomas
+covers:
+- cover_type: archival
+  image_path: 63777-h/images/cover.jpg
 creator:
   author:
     agent_name: Giraudoux, Jean
@@ -28,6 +31,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Giraudoux
     - https://fr.wikipedia.org/wiki/Jean_Giraudoux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63777#Amica-America
 gutenberg_issued: '2020-11-15'
 gutenberg_type: Text
 identifiers:
