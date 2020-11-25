@@ -1,0 +1,47 @@
+_repo: Amica-America_63777
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dethomas, Maxime
+    alias: Thomas, Maxime de
+    birthdate: 1867
+    deathdate: 1929
+    gutenberg_agent_id: '52591'
+    url: http://www.gutenberg.org/2009/agents/52591
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Maxime_Dethomas
+    - https://fr.wikipedia.org/wiki/Maxime_Dethomas
+creator:
+  author:
+    agent_name: Giraudoux, Jean
+    aliases:
+    - Giraudoux, Hippolyte Jean
+    - Giradoux, Jean
+    - Andouard
+    - Cordelier, Maurice
+    - Maniere, J.-E.
+    birthdate: 1882
+    deathdate: 1944
+    gutenberg_agent_id: '51078'
+    url: http://www.gutenberg.org/2009/agents/51078
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Giraudoux
+    - https://fr.wikipedia.org/wiki/Jean_Giraudoux
+description: ''
+gutenberg_issued: '2020-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63777'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs'
+- !lcsh 'Massachusetts -- Description and travel'
+- !lcc 'F001'
+- GITenberg
+tableOfContents: Prologue -- Discours dans le Massachusetts -- Déjà l'on voit... --
+  Repos au lac Asquam -- Pour Groton et Middlesex -- Film -- Épilogue.
+title: Amica America
+url: http://www.gutenberg.org/ebooks/63777
